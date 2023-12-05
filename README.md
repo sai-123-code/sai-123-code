@@ -26,8 +26,8 @@ I'm open to collaboration on projects that align with my interests. If you have 
 ## 📫 How to Reach Me
 
 You can reach out to me through:
-- Email: [your@email.com]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: garlapati.varun.17ece@bml.edu.in
+- LinkedIn: https://www.linkedin.com/in/garlapati-sai-varun-011b25158/
 
 Looking forward to connecting with fellow enthusiasts, learners, and collaborators! Let's build something impactful.
 
