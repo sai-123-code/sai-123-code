@@ -13,10 +13,14 @@ As the field of data science is ever-evolving, I'm on a continuous journey of le
 ## 💼 Portfolio Highlights
 
 Here are some of the projects that showcase my skills and interests:
-- [Project 1: Brief description and link]
-- [Project 2: Brief description and link]
-- [Project 3: Brief description and link]
-
+- Manas-MentalHealth-BOT
+  Created a Chatbot using Machine learning models such as SVM,BERT embeddings,Sentiment Analysis and Created GUI in tkinter for above.Check this Project at
+  https://github.com/sai-123-code/Manas-MentalHealth_Chatbot .
+  
+- Chatbot_Analytics_Dashboard
+  Analysis on data collected from chatbot in Power Bi .This kind of dashboards can be used by admins for quick and better understanding of users queries.Check this project 
+  at https://github.com/sai-123-code/Chatbot_Analytics_Dashboard .
+  
 Feel free to explore these repositories to get a glimpse of my work!
 
 ## 💞️ Collaboration
