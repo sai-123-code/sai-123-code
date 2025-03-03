@@ -8,7 +8,13 @@ I love diving into data and extracting meaningful patterns. Whether it's predict
 
 ## 🌱 Currently Learning
 
-As the field of data science is ever-evolving, I'm on a continuous journey of learning and improvement. Currently, I'm honing my skills in [mention specific areas or technologies you're currently exploring].
+The field of data science is ever-evolving, and I'm on a continuous journey of learning and improvement. Currently, I'm enhancing my expertise in:
+
+- Large Language Models (LLMs) and their applications
+
+- Advanced NLP techniques
+
+- Machine learning optimization strategies
 
 ## 💼 Portfolio Highlights
 
@@ -35,6 +41,12 @@ You can reach out to me through:
 - LinkedIn: https://www.linkedin.com/in/garlapati-sai-varun-011b25158/
 
 Looking forward to connecting with fellow enthusiasts, learners, and collaborators! Let's build something impactful.
+
+## Profile Stats
+![Profile Views](https://komarev.com/ghpvc/?username=sai-123-code&color=blue&style=flat)
+
+
+
 
 <!---
 sai-123-code/sai-123-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
