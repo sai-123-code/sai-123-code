@@ -47,6 +47,8 @@ Looking forward to connecting with fellow enthusiasts, learners, and collaborato
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai-123-code&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-123-code&layout=compact&theme=radical)
+
 
 
 
